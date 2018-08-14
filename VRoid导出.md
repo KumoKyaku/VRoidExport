@@ -18,8 +18,6 @@
 
    ![image](pic/4.PNG)
 
-**使用UniVRM插件和UnityFBXExport插件导出Fbx会合并mesh和材质。**
-
 根据用途选中导出方式。
 
 **注意，重命名glb后的Win10默认打开方式是3DBuilder,这个只能导出obj。**
