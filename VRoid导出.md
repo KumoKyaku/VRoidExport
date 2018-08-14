@@ -8,15 +8,15 @@
 
 3. 如果想转成FBX，将Vroid.vrm重命名为Vroid.glb,然后使用Win10自带的`画图3D`软件打开。
    
-   ![image](pic/2.png)
+   ![image](pic/2.PNG)
 
 4. 在画图3D中导出fbx。
-   ![image](pic/3.png)
+   ![image](pic/3.PNG)
 
    
 **使用画图3D导出可以保留材质数量，贴图会包含在fbx中，但是材质会变为standard，材质和贴图的关联可能会丢失。**
 
-   ![image](pic/4.png)
+   ![image](pic/4.PNG)
 
 **使用UniVRM插件和UnityFBXExport插件导出Fbx会合并mesh和材质。**
 
