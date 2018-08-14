@@ -6,13 +6,18 @@
 
 2. **推荐这个方法** ：下载Unity,推荐使用UniVRM插件，将Vroid.vrm直接拖入unity中即可。在unity中可以使用UnityFBXExport插件导出模型。
    https://github.com/dwango/UniVRM/releases
-   https://assetstore.unity.com/packages/essentials/fbx-exporter-101408
+   https://assetstore.unity.com/packages/essentials/fbx-exporter-101408  
 
-3. 如果不想下载unity，也可以将Vroid.vrm重命名为Vroid.glb,然后使用Win10自带的`画图3D`软件打开。
+    选中自动生成的prefab，打开GameObject菜单选择导出：
+    ![image](pic/2.1.png)
+    可以选择导出位置：
+    ![image](pic/2.2.png)
+
+1. 如果不想下载unity，也可以将Vroid.vrm重命名为Vroid.glb,然后使用Win10自带的`画图3D`软件打开。
    
    ![image](pic/2.PNG)
 
-4. 在画图3D中导出fbx。
+2. 在画图3D中导出fbx。
    ![image](pic/3.PNG)
 
    
