@@ -5,6 +5,8 @@
    ![image](pic/1.png)
 
 2. **推荐这个方法** ：下载Unity,推荐使用UniVRM插件，将Vroid.vrm直接拖入unity中即可。在unity中可以使用UnityFBXExport插件导出模型。
+   https://github.com/dwango/UniVRM/releases
+   https://assetstore.unity.com/packages/essentials/fbx-exporter-101408
 
 3. 如果不想下载unity，也可以将Vroid.vrm重命名为Vroid.glb,然后使用Win10自带的`画图3D`软件打开。
    
