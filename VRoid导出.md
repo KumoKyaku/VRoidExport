@@ -16,7 +16,7 @@
    
 **使用画图3D导出可以保留材质数量，贴图会包含在fbx中，但是材质会变为standard，材质和贴图的关联可能会丢失。**
 
-![image](pic/4.png)
+   ![image](pic/4.png)
 
 **使用UniVRM插件和UnityFBXExport插件导出Fbx会合并mesh和材质。**
 
