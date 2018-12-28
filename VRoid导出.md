@@ -1,5 +1,7 @@
 # VRoid导出方法
 
+**如果导出报错ArgumentNullException, 请尝试 UniVRM 插件4.0 或 4.0 之前的版本。**
+
 1. VRroidStudio中选择摄影导出页点击导出，填写title，其他项选填。
    
    ![image](pic/1.png)
